@@ -1,0 +1,3434 @@
+fileFormatVersion: 2
+guid: 30d20324f80e97543bae3315c921eebb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5877609012572519718
+    second: UnderworldSpriteSheetPixeled.jpg_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62df40b8146719150800000000000000
+      internalID: 5877609012572519718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0835199335b2c734ab684faa7043cd1e
+      internalID: 579278254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c8d2f3991939439075fbec10880fa
+      internalID: -1194024057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_3
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fcb4d05124c3c40b1af4d7458b69b5
+      internalID: -354658411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_4
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b226f83087994854794650a8fec15486
+      internalID: -53193693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_5
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928ff5ec96bb50d4abdd64fd2d6f856f
+      internalID: 1929346860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_6
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4272df3fb0c88e84aa3aae16905de444
+      internalID: -1683279188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_7
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf0bde18e2c8bc46b8434d0ede9cce5
+      internalID: -639242679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_8
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c8e52856cc6646b52a8305a47512d
+      internalID: -1314055323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_9
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61a1e5a4af6ec243b29c0107450f8fd
+      internalID: -2114771422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_10
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5344148486f15224fa2c6dcc57168959
+      internalID: -1386442281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_11
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 3960
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a883fd2dff4e1e147b5db493c4f72fb2
+      internalID: -443384998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04738e97a95f7a042a4aedfe032499f5
+      internalID: -1526193216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8fb02bbf9c68e42b56e15531a85fdb
+      internalID: -2137724610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8ebdf1444caa14f9eab33d2f438873
+      internalID: -186530490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28db7d18bd22a242aecef3cd83257da
+      internalID: -390639586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_16
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8096259386a3004cbe5dd7063d05054
+      internalID: -1577037830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_17
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3035b73468d2943a50e8093e209c5c
+      internalID: -962734573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_18
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f35aef2664ac45811082e42561136
+      internalID: 1948333134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_19
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23751a3ab11bedf4f8062c269116eb51
+      internalID: 159240499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_20
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b449edeecc73504a885a6f5051c4f33
+      internalID: -998673068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_21
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4b37c312a6e546b0cb4cc8c1515f0
+      internalID: -359417403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_22
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b982e4d77b0c85440bd46747942f36e6
+      internalID: 378041937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_23
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 3600
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb299754dc9c4d44fa65b696322fb00c
+      internalID: -1240398782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ed5925b0748c149b1478c81cb07716
+      internalID: 179488278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb3d1ded9b8c142a6f61e6f7cf6269
+      internalID: -2138727181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57457014e0187947ad122788f47b86f
+      internalID: -891377788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_27
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d7f99b497fbf41bceb0da716cabec
+      internalID: -88251420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_28
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eca547d8586f4b48bd2b74102411b1f
+      internalID: 1739580669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_29
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec322ca998c1941941ae621a0f11f2
+      internalID: -504909309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_30
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90026ca609640e740ac9fe1e5bffb50f
+      internalID: 1410782008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_31
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d5b0e74da993349b32882bacfd5be7
+      internalID: 225920194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_32
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bea4d3eb5380c4c9f05c65dc0e19fb
+      internalID: -1100702793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_33
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f56c946d275194da138af93ccece5d
+      internalID: -1688305307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_34
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9851ce5b6d4f4895d6d02f0e61ce6
+      internalID: 503035801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_35
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 3240
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41c624d6d1e854cbe876d1d17ee6ca
+      internalID: -296108979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a947dd9276593ed4a9f470b450110085
+      internalID: -1912954966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_37
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615939f64c6534c4abfca067fb132436
+      internalID: 1065886007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_38
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eaad10e488cd048a8a566cd7c0ebd1
+      internalID: -1238730080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_39
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e996074d170c55a49abce3d1c98cc2d2
+      internalID: 1333344550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_40
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871db555d9d16a04e98998de209330b9
+      internalID: 1297971409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_41
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffb4341fc368a946a80c0f5237732d8
+      internalID: 1130440775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_42
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd2b3e136b837647af100a0e8de8d1f
+      internalID: 1956445837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_43
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44e68d2be9feb844ae72165cd8e8c49
+      internalID: -239382751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_44
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c92d870f57974e84cd41c77d1a18f
+      internalID: -31731681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_45
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c27c56ae8a098d449827b2716ebc10f
+      internalID: 1889285164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_46
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb4db352db3fe640862a6f1a95eaabb
+      internalID: -811764671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_47
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 2880
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbec778ed793cbe40a4b0aaf9a72b73f
+      internalID: 366161755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f1ca2b84dc593458621e24a086934e
+      internalID: -1777966988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_49
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690846c75e19c1f45932e63376f044c6
+      internalID: 818220613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_50
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b22b25b6fbbafe47b48dddc400528ac
+      internalID: 1411532219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_51
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f94e30cb9c9a1e4ba2553edb837d453
+      internalID: 1775724351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_52
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6e635cc96a4bb4f98cb261ddf5352b
+      internalID: 691967360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_53
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326bcc4a527fbb042aab87a5c969a98b
+      internalID: 1912089316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_54
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a6d31e7c450ab449b66ce7e04b0800
+      internalID: -2135242535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_55
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e68e5fa8a0884b47aeabf097f4c84df
+      internalID: 1974186974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_56
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb99e939b6c654aadbd95d272ecd09
+      internalID: 1933572135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_57
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddb11b2b719e4e4ba8a1f2702c4587c
+      internalID: -1849248671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_58
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd706bb16c1ba5f41bcd6a4bb521ec58
+      internalID: -328024596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_59
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 2520
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aea8d4aff5b82f49a220031213995fc
+      internalID: -2098587663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa90b7f07d2dcf4da181ed6f64fe5a0
+      internalID: -94378951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05052c963ba51ed41b9ceda8e5d21f98
+      internalID: -803077984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_62
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85c916a92267d24185867aab1b84e36
+      internalID: -453379861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_63
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1064d3339a579478f9a5dccb8aa286
+      internalID: 770897763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_64
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553c1bd266160664dbca70db265a1116
+      internalID: -1992580708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_65
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d2ff8a958c4f4fa96b82725a3801b
+      internalID: -343229200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_66
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a0d9c93e137c4fa8c89aaaa68982e
+      internalID: 1474999937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_67
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4890a4a6167ca41b3618dcdf945139
+      internalID: -1774070344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_68
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9624c2d4295ca4385b362d990fecf2
+      internalID: 1268667169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_69
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5fe53a505731441a702e2edf76f40a
+      internalID: 268273084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_70
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a742d4ec05fbd4689a156f5c336c41
+      internalID: -1571017387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_71
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 2160
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9ce5eae379fd47af1e5aeb1215fa6
+      internalID: -2100296878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50a99deb0669674dbbc1de2b1a37141
+      internalID: 770851715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_73
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0404c8c4255d241ba8ab7297c5dc3f
+      internalID: 929899578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_74
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8592ea3b11f4651499018825436cd196
+      internalID: 1589471208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_75
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35f83bba7fcdce4ba3b406e76075d2f
+      internalID: 36531461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_76
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5840429e760f3748b863317230dbeea
+      internalID: -1845230376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_77
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1b22a12b8e7b43b0d17768e45f40c
+      internalID: -106074657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_78
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9370170aba0543d47baba4d5b4035bfa
+      internalID: 1237862150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_79
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca7aebde7c91c4099daaa232ef3776
+      internalID: 530926737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_80
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a4c99035e5cac4fbe15ad642ce869f
+      internalID: -1796445691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_81
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023bcfdda61e637449eb32e25b0260f4
+      internalID: 1854987115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_82
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c766dfe0d3f6b994491fc508f8cb03f3
+      internalID: -2088709222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_83
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 1800
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2438d46ed87ae24597c256772b01d43
+      internalID: -239538175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0d07bcf10bb8c44ad5a211e8647a13
+      internalID: -1307468938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_85
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be23f10a21684418bfa158ec910300
+      internalID: -1935368713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_86
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5689914d9ceb5eb429446fa35277049e
+      internalID: 964336183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_87
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c071de1f2406eb4c8f1c5ff34cfe44c
+      internalID: 719395240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_88
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac42ad25624f914bb8283f32e28b203
+      internalID: 300570875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_89
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4908d2de37c9d24e923cf2cab59067b
+      internalID: 1010100014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_90
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee60fc87ab382c74c94d6caa9e7fb2cb
+      internalID: -1325138871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_91
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30e71baf963f5d4ba41d6d5f58a5f32
+      internalID: -1323916940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_92
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed95cc3293fd4974fa5295fb5a54bc16
+      internalID: -1826879479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_93
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee692bdecb52c449ac238e926bb07a
+      internalID: -952595890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_94
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1525c63f048d35249a950260c4203421
+      internalID: 1206774428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_95
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 1440
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30bd26494f5309428832dd6e5083840
+      internalID: 364780679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee165d3ba7ef64496e1616dbfaf0f0
+      internalID: -1524239911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_97
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb82dd66116e443b3690b4a966c936
+      internalID: -1005556472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_98
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2126286d66f6b04f91ed750801ca3cb
+      internalID: -1487191779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_99
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c275e41e2388944b6019bbc01f1f44
+      internalID: -1911408386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_100
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d8d5bac028ca409bad57186579894
+      internalID: 1769434187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_101
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d842c9252abe4754ca902c78b6af50a1
+      internalID: 1997152684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_102
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5283d34af4e419e45b2e0d16e75663ef
+      internalID: -1552081543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_103
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e2d9f59bd481142aec0195a3d3aba0
+      internalID: -1991906045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_104
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56ca6dbf66efaa49b83d76991366bb9
+      internalID: -613560084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_105
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2622252e9e0d0740b7363b65191c766
+      internalID: -1627943926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_106
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e8029012c71a94d875f549cefa47cc
+      internalID: 365662421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_107
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 1080
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a6ba5cc329cb489a837654e047b83
+      internalID: -1008987004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdfd00135ed1d14381f1659f598b287
+      internalID: 1107523127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_109
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9ea16589542284bb58f2fed9c69e25
+      internalID: -1158571121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_110
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0bce15be0662043af01373d74612a8
+      internalID: -2024948765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_111
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2e98c97feddb542bc11f2868987ecd
+      internalID: -1641750673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_112
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6dce379ae4ec645b39a82583257c5d
+      internalID: -815165663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_113
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec16cc03b61a7b4484b59955bc638a2
+      internalID: 2079611031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_114
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89de09ceefe35346be1b779ad51fa66
+      internalID: 1022763032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_115
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420e55845a205ca46881d049ae07188a
+      internalID: 1657563413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_116
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9636f99d0e4fcfa48bc670ce0df1966c
+      internalID: -1818324827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_117
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9fb9cf2add92940b46af233930c1bc
+      internalID: 1833574731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_118
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9e269fc13a75c4e8626589883fbbfa
+      internalID: -563876762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_119
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 720
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f90c87f3aaa74eaf86cd89b5857e2
+      internalID: 99834926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36417f16f47fe244bc5af3ee760ab8e
+      internalID: -1643852496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_121
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57775b642010944a0b10268c35ae93
+      internalID: 1819448786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_122
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d5af6faed1e54695dc4bd019ea0f6
+      internalID: -1308459477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_123
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b70e41cc34d84aadc60d60066fa4b
+      internalID: -2064689244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_124
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c353253420e545743a09933d243e8b7c
+      internalID: 571585235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_125
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e149219faf5957c42bca1eb8c8a7d5d6
+      internalID: 1052561002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_126
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e758ce69cdbea49afe6dceb688b308
+      internalID: -1862958974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_127
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3577bea43971a8541a32bae10dc05447
+      internalID: 1400388001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_128
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b0b90f68b8f6478ce75c4cd860c5c
+      internalID: 1468226946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_129
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e793cf2dfd357234eaab379b0a95cf10
+      internalID: -306284817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_130
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7097707a8d5ac49a33116b8744dfa4
+      internalID: -1413648964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_131
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 360
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c85efebe24b7f4c8e83a402bce2a40
+      internalID: -1603113868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e4c271d41c6d145bcc43862b83b87c
+      internalID: 794286225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_133
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f19dc66db797e489884ebff849a752
+      internalID: -167139292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_134
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11412009acd16d349b3786eb662faff7
+      internalID: -1998213620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_135
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0326a2bcadf60174389ee03fb8452fe2
+      internalID: -722414938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_136
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824ee8d5c754590499b2af86ef5d1674
+      internalID: 1241736999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_137
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e8e14e6769384eaaca6ca16028f0c
+      internalID: -1465963431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_138
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db873e3ef6dd8e54a9833740ccc9b43c
+      internalID: 1866165720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_139
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63efa3a35782adc46b3d11edad53dfdf
+      internalID: 31398527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_140
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b8b584c11ffe0499ea2b93fa57ab83
+      internalID: 517260027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_141
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c94519e6000b40823668d0ad5139e
+      internalID: 381292761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_142
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d95a608f796e148942913830b99bdd
+      internalID: -1322540482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderworldSpriteSheetPixeled.jpg_143
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 0
+        width: 426
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d4c7cddc5f68f418edb8f7c92e7b48
+      internalID: -324349970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 22167090951fce74296db0e7257aab9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":426.0,"y":360.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      UnderworldSpriteSheetPixeled.jpg_0: 5877609012572519718
+      UnderworldSpriteSheetPixeled.jpg_1: 579278254
+      UnderworldSpriteSheetPixeled.jpg_10: -1386442281
+      UnderworldSpriteSheetPixeled.jpg_100: 1769434187
+      UnderworldSpriteSheetPixeled.jpg_101: 1997152684
+      UnderworldSpriteSheetPixeled.jpg_102: -1552081543
+      UnderworldSpriteSheetPixeled.jpg_103: -1991906045
+      UnderworldSpriteSheetPixeled.jpg_104: -613560084
+      UnderworldSpriteSheetPixeled.jpg_105: -1627943926
+      UnderworldSpriteSheetPixeled.jpg_106: 365662421
+      UnderworldSpriteSheetPixeled.jpg_107: -1008987004
+      UnderworldSpriteSheetPixeled.jpg_108: 1107523127
+      UnderworldSpriteSheetPixeled.jpg_109: -1158571121
+      UnderworldSpriteSheetPixeled.jpg_11: -443384998
+      UnderworldSpriteSheetPixeled.jpg_110: -2024948765
+      UnderworldSpriteSheetPixeled.jpg_111: -1641750673
+      UnderworldSpriteSheetPixeled.jpg_112: -815165663
+      UnderworldSpriteSheetPixeled.jpg_113: 2079611031
+      UnderworldSpriteSheetPixeled.jpg_114: 1022763032
+      UnderworldSpriteSheetPixeled.jpg_115: 1657563413
+      UnderworldSpriteSheetPixeled.jpg_116: -1818324827
+      UnderworldSpriteSheetPixeled.jpg_117: 1833574731
+      UnderworldSpriteSheetPixeled.jpg_118: -563876762
+      UnderworldSpriteSheetPixeled.jpg_119: 99834926
+      UnderworldSpriteSheetPixeled.jpg_12: -1526193216
+      UnderworldSpriteSheetPixeled.jpg_120: -1643852496
+      UnderworldSpriteSheetPixeled.jpg_121: 1819448786
+      UnderworldSpriteSheetPixeled.jpg_122: -1308459477
+      UnderworldSpriteSheetPixeled.jpg_123: -2064689244
+      UnderworldSpriteSheetPixeled.jpg_124: 571585235
+      UnderworldSpriteSheetPixeled.jpg_125: 1052561002
+      UnderworldSpriteSheetPixeled.jpg_126: -1862958974
+      UnderworldSpriteSheetPixeled.jpg_127: 1400388001
+      UnderworldSpriteSheetPixeled.jpg_128: 1468226946
+      UnderworldSpriteSheetPixeled.jpg_129: -306284817
+      UnderworldSpriteSheetPixeled.jpg_13: -2137724610
+      UnderworldSpriteSheetPixeled.jpg_130: -1413648964
+      UnderworldSpriteSheetPixeled.jpg_131: -1603113868
+      UnderworldSpriteSheetPixeled.jpg_132: 794286225
+      UnderworldSpriteSheetPixeled.jpg_133: -167139292
+      UnderworldSpriteSheetPixeled.jpg_134: -1998213620
+      UnderworldSpriteSheetPixeled.jpg_135: -722414938
+      UnderworldSpriteSheetPixeled.jpg_136: 1241736999
+      UnderworldSpriteSheetPixeled.jpg_137: -1465963431
+      UnderworldSpriteSheetPixeled.jpg_138: 1866165720
+      UnderworldSpriteSheetPixeled.jpg_139: 31398527
+      UnderworldSpriteSheetPixeled.jpg_14: -186530490
+      UnderworldSpriteSheetPixeled.jpg_140: 517260027
+      UnderworldSpriteSheetPixeled.jpg_141: 381292761
+      UnderworldSpriteSheetPixeled.jpg_142: -1322540482
+      UnderworldSpriteSheetPixeled.jpg_143: -324349970
+      UnderworldSpriteSheetPixeled.jpg_15: -390639586
+      UnderworldSpriteSheetPixeled.jpg_16: -1577037830
+      UnderworldSpriteSheetPixeled.jpg_17: -962734573
+      UnderworldSpriteSheetPixeled.jpg_18: 1948333134
+      UnderworldSpriteSheetPixeled.jpg_19: 159240499
+      UnderworldSpriteSheetPixeled.jpg_2: -1194024057
+      UnderworldSpriteSheetPixeled.jpg_20: -998673068
+      UnderworldSpriteSheetPixeled.jpg_21: -359417403
+      UnderworldSpriteSheetPixeled.jpg_22: 378041937
+      UnderworldSpriteSheetPixeled.jpg_23: -1240398782
+      UnderworldSpriteSheetPixeled.jpg_24: 179488278
+      UnderworldSpriteSheetPixeled.jpg_25: -2138727181
+      UnderworldSpriteSheetPixeled.jpg_26: -891377788
+      UnderworldSpriteSheetPixeled.jpg_27: -88251420
+      UnderworldSpriteSheetPixeled.jpg_28: 1739580669
+      UnderworldSpriteSheetPixeled.jpg_29: -504909309
+      UnderworldSpriteSheetPixeled.jpg_3: -354658411
+      UnderworldSpriteSheetPixeled.jpg_30: 1410782008
+      UnderworldSpriteSheetPixeled.jpg_31: 225920194
+      UnderworldSpriteSheetPixeled.jpg_32: -1100702793
+      UnderworldSpriteSheetPixeled.jpg_33: -1688305307
+      UnderworldSpriteSheetPixeled.jpg_34: 503035801
+      UnderworldSpriteSheetPixeled.jpg_35: -296108979
+      UnderworldSpriteSheetPixeled.jpg_36: -1912954966
+      UnderworldSpriteSheetPixeled.jpg_37: 1065886007
+      UnderworldSpriteSheetPixeled.jpg_38: -1238730080
+      UnderworldSpriteSheetPixeled.jpg_39: 1333344550
+      UnderworldSpriteSheetPixeled.jpg_4: -53193693
+      UnderworldSpriteSheetPixeled.jpg_40: 1297971409
+      UnderworldSpriteSheetPixeled.jpg_41: 1130440775
+      UnderworldSpriteSheetPixeled.jpg_42: 1956445837
+      UnderworldSpriteSheetPixeled.jpg_43: -239382751
+      UnderworldSpriteSheetPixeled.jpg_44: -31731681
+      UnderworldSpriteSheetPixeled.jpg_45: 1889285164
+      UnderworldSpriteSheetPixeled.jpg_46: -811764671
+      UnderworldSpriteSheetPixeled.jpg_47: 366161755
+      UnderworldSpriteSheetPixeled.jpg_48: -1777966988
+      UnderworldSpriteSheetPixeled.jpg_49: 818220613
+      UnderworldSpriteSheetPixeled.jpg_5: 1929346860
+      UnderworldSpriteSheetPixeled.jpg_50: 1411532219
+      UnderworldSpriteSheetPixeled.jpg_51: 1775724351
+      UnderworldSpriteSheetPixeled.jpg_52: 691967360
+      UnderworldSpriteSheetPixeled.jpg_53: 1912089316
+      UnderworldSpriteSheetPixeled.jpg_54: -2135242535
+      UnderworldSpriteSheetPixeled.jpg_55: 1974186974
+      UnderworldSpriteSheetPixeled.jpg_56: 1933572135
+      UnderworldSpriteSheetPixeled.jpg_57: -1849248671
+      UnderworldSpriteSheetPixeled.jpg_58: -328024596
+      UnderworldSpriteSheetPixeled.jpg_59: -2098587663
+      UnderworldSpriteSheetPixeled.jpg_6: -1683279188
+      UnderworldSpriteSheetPixeled.jpg_60: -94378951
+      UnderworldSpriteSheetPixeled.jpg_61: -803077984
+      UnderworldSpriteSheetPixeled.jpg_62: -453379861
+      UnderworldSpriteSheetPixeled.jpg_63: 770897763
+      UnderworldSpriteSheetPixeled.jpg_64: -1992580708
+      UnderworldSpriteSheetPixeled.jpg_65: -343229200
+      UnderworldSpriteSheetPixeled.jpg_66: 1474999937
+      UnderworldSpriteSheetPixeled.jpg_67: -1774070344
+      UnderworldSpriteSheetPixeled.jpg_68: 1268667169
+      UnderworldSpriteSheetPixeled.jpg_69: 268273084
+      UnderworldSpriteSheetPixeled.jpg_7: -639242679
+      UnderworldSpriteSheetPixeled.jpg_70: -1571017387
+      UnderworldSpriteSheetPixeled.jpg_71: -2100296878
+      UnderworldSpriteSheetPixeled.jpg_72: 770851715
+      UnderworldSpriteSheetPixeled.jpg_73: 929899578
+      UnderworldSpriteSheetPixeled.jpg_74: 1589471208
+      UnderworldSpriteSheetPixeled.jpg_75: 36531461
+      UnderworldSpriteSheetPixeled.jpg_76: -1845230376
+      UnderworldSpriteSheetPixeled.jpg_77: -106074657
+      UnderworldSpriteSheetPixeled.jpg_78: 1237862150
+      UnderworldSpriteSheetPixeled.jpg_79: 530926737
+      UnderworldSpriteSheetPixeled.jpg_8: -1314055323
+      UnderworldSpriteSheetPixeled.jpg_80: -1796445691
+      UnderworldSpriteSheetPixeled.jpg_81: 1854987115
+      UnderworldSpriteSheetPixeled.jpg_82: -2088709222
+      UnderworldSpriteSheetPixeled.jpg_83: -239538175
+      UnderworldSpriteSheetPixeled.jpg_84: -1307468938
+      UnderworldSpriteSheetPixeled.jpg_85: -1935368713
+      UnderworldSpriteSheetPixeled.jpg_86: 964336183
+      UnderworldSpriteSheetPixeled.jpg_87: 719395240
+      UnderworldSpriteSheetPixeled.jpg_88: 300570875
+      UnderworldSpriteSheetPixeled.jpg_89: 1010100014
+      UnderworldSpriteSheetPixeled.jpg_9: -2114771422
+      UnderworldSpriteSheetPixeled.jpg_90: -1325138871
+      UnderworldSpriteSheetPixeled.jpg_91: -1323916940
+      UnderworldSpriteSheetPixeled.jpg_92: -1826879479
+      UnderworldSpriteSheetPixeled.jpg_93: -952595890
+      UnderworldSpriteSheetPixeled.jpg_94: 1206774428
+      UnderworldSpriteSheetPixeled.jpg_95: 364780679
+      UnderworldSpriteSheetPixeled.jpg_96: -1524239911
+      UnderworldSpriteSheetPixeled.jpg_97: -1005556472
+      UnderworldSpriteSheetPixeled.jpg_98: -1487191779
+      UnderworldSpriteSheetPixeled.jpg_99: -1911408386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -18,8 +18,10 @@ public abstract class Boss : Enemy
         
         yield return new WaitForSeconds(_regenCooldown);
     }
-    
-    public abstract void Spare();
 
-    public abstract void Kill();
+    protected override void Die(){}
+    
+    protected abstract void Spare();
+
+    protected abstract void Kill();
 }
